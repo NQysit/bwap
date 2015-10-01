@@ -1,10 +1,5 @@
 <?php
 
-    function conexion(){
-        $conexion = mysql_connect("localhost", "iagogo", "abc123.") or die("Error: Non se puido establecer conexion");
-        return $conexion;
-    }
-
     function connect(){
         $enlace = mysql_connect('localhost', 'iagogo', 'abc123.');
         if (!$enlace) {
