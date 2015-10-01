@@ -1,0 +1,30 @@
+.section {
+  padding-top: 50px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.row {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#contacto {
+    width: 80%;
+    margin: 0 auto;
+}
+
+footer {
+    background: black;
+    text-align: center;
+    padding: 3%;
+    margin-top: 50px;
+    color: white;
+}
+
+#retosForm {
+    width: 50%;
+    margin: 0 auto;
+    padding: 5%;
+}
