@@ -3,7 +3,7 @@
 $nome = $_POST['nome'];
 $email = $_POST['email'];
 $mensaxe = $_POST['mensaxe'];
-$para = 'mciago.gz@hotmail.com';
+$para = '';
 $titulo = $_POST['titulo'];
 $header = 'From: ' . $email;
 $msxCorreo = "Nome: $nome\n E-Mail: $email\n Mensaxe:\n $mensaxe";
